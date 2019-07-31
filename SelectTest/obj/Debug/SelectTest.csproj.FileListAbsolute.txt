@@ -1,0 +1,7 @@
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\bin\Debug\SelectTest.exe.config
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\bin\Debug\SelectTest.exe
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\bin\Debug\SelectTest.pdb
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\obj\Debug\SelectTest.csprojAssemblyReference.cache
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\obj\Debug\SelectTest.csproj.CoreCompileInputs.cache
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\obj\Debug\SelectTest.exe
+C:\Users\atzin\OneDrive\Personal Coding Projects\C#\SelectTest\SelectTest\obj\Debug\SelectTest.pdb
